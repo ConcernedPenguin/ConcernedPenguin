@@ -1,3 +1,5 @@
+
+```bash
 $ curl -s https://raw.githubusercontent.com/Syprozzz/Syprozzz/main/hello.sh | sh
 
   _____    __     __   ______ 
