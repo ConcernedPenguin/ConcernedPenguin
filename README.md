@@ -40,8 +40,7 @@ $ ls syprozzz
 │   └── Retro Portfolio Website  
 │  
 └── Goals  
-    ├── 🎓 Study Computer Engineering in Germany  
-    ├── 🤖 Become an AI Engineer & Researcher  
+    ├── 🎓 Study Computer Science in Germany    
     ├── 💪 Master Calisthenics & Stay Healthy  
     └── 🌍 Build real-world impactful AI tools  
 
