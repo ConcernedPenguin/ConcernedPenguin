@@ -1,25 +1,19 @@
-name: Update
+name: Update WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
-  push:
-    branches:
-      - main
+    - cron: '0 12 * * *' # every day at 12:00 UTC
   workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+
+      - name: Update WakaTime Stats in README
+        uses: wakatime/wakatime-readme@v1
         with:
-          node-version: "14.x"
-      - run: npm install
-      - run: node update.js
-        env:
-          WAKATIMETOKEN: ${{ secrets.WAKATIMETOKEN }}
-          DISCORDTOKEN: ${{ secrets.DISCORDTOKEN }}
-          GITHUBTOKEN: ${{ secrets.GITHUB_TOKEN }}
+          api_key: ${{ secrets.WAKATIME_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
