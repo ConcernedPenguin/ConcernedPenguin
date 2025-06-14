@@ -1,6 +1,6 @@
 # Syz
 
-```  
+```
   _____    __     __   ______ 
  / ____|   \ \   / /  |___  / 
 | (___      \ \ / /      / /  
@@ -8,17 +8,18 @@
  ____) |      | |      / /__  
 |_____/       |_|     /_____| 
       S        Y        Z
-```
 
 ├── From Nepal 🇳🇵  
-├── Born on 2007.XX.XX  
-└── Future Computer Engineer in 🇩🇪 Germany  
+├── Born on 2008 
+└── Planning to study in  🇩🇪  
 
 $ waka stats --user syprozzz --from 2025-06-07 --to 2025-06-14
+```
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+```bash
 $ ls syprozzz
 
 ├── README.md  
@@ -29,7 +30,7 @@ $ ls syprozzz
 │  
 ├── Tools  
 │   ├── VSCode      Git & GitHub       Figma  
-│   ├── Pygame      Piskel             Linux 🐧  
+│   ├── Pygame      Piskel             Linux 🐧(arch btw)  
 │   └── Anki        Duolingo           Replit  
 │  
 ├── Projects  
@@ -45,3 +46,4 @@ $ ls syprozzz
     └── 🌍 Build real-world impactful AI tools  
 
 $ echo "Always building, always learning..." 🧠
+```
