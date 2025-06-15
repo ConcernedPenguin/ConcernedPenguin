@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Update WakaTime Stats in README
         uses: athul/waka-readme@master
@@ -21,5 +22,5 @@ jobs:
           SHOW_TITLE: true
           LANG_COUNT: 5
           SHOW_TOTAL: true
-          TARGET_BRANCH: main       # Change to your repo’s default branch if not main
-          TARGET_PATH: README.md    # Path to your README file
+          TARGET_BRANCH: main          # Change to 'master' if your default branch is master
+          TARGET_PATH: README.md       # Change if your README path is different
