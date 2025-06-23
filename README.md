@@ -19,11 +19,11 @@ $ waka stats --user syprozzz --from 2025-06-07 --to 2025-06-14
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 21 June 2025
+From: 15 June 2025 - To: 22 June 2025
 
-Total Time: 39 mins
+Total Time: 32 mins
 
-Python   39 mins         █████████████████████████   100.00 %
+Python   32 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
