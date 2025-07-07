@@ -11,9 +11,9 @@
 
 ├── From Nepal 🇳🇵  
 ├── Born on 2008 
-└── Planning to study in  🇩🇪  
+└── Planning to study CS
 
-$ waka stats --user syprozzz --from 2025-06-07 --to 2025-06-14
+$ waka stats --user syprozzz
 ```
 
 <!--START_SECTION:waka-->
@@ -37,24 +37,24 @@ $ ls syprozzz
 ├── README.md  
 │  
 ├── Languages  
-│   ├── Python 🐍        HTML/CSS        Markdown  
-│   └── Learning: JavaScript, German 🇩🇪  
+│   ├── Python         HTML/CSS        Markdown  
+│   └── Learning: JavaScript, C, SQL  
 │  
 ├── Tools  
 │   ├── VSCode      Git & GitHub       Figma  
-│   ├── Pygame      Piskel             Linux 🐧(arch btw)  
-│   └── Anki        Duolingo           Replit  
+│   ├── Pygame      Piskel             Linux (arch btw)  
+│   └── Replit                  
 │  
 ├── Projects  
 │   ├── Tic Tac Toe [Python]  
 │   ├── Spaceship Game [Pygame]  
-│   ├── Street Fighter Game [WIP]  
-│   └── Retro Portfolio Website  
+│   ├── Street Fighter Game [In Progress]  
+│   └── Retro Portfolio Website [In progress]
 │  
 └── Goals  
-    ├── 🎓 Study Computer Science in Germany    
+    ├── 🎓 Studying the exciting world of CS
     ├── 💪 Master Calisthenics & Stay Healthy  
-    └── 🌍 Build real-world impactful AI tools  
+    └── 🌍 Implement Knowledge in Real World
 
-$ echo "Always building, always learning..." 🧠
+$ echo "To live is to struggle. That’s the nature of life...." 🧠
 ```
