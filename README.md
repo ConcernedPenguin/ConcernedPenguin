@@ -34,19 +34,18 @@ $ ls syprozzz
 ├── README.md  
 │  
 ├── Languages  
-│   ├── Python         HTML/CSS        Markdown  
-│   └── Learning: JavaScript, C, SQL  
+│   ├── Python         SQL         Markdown  
+│   ├──Javascript      C           Lua    
 │  
 ├── Tools  
-│   ├── VSCode      Git & GitHub       Figma  
+│   ├── Neovim      Git & GitHub       Figma              
 │   ├── Pygame      Piskel             Linux (arch btw)  
-│   └── Replit                  
+│   └── Replit      Jupyter Notebook            
 │  
 ├── Projects  
 │   ├── Tic Tac Toe [Python]  
 │   ├── Spaceship Game [Pygame]  
 │   ├── Street Fighter Game [In Progress]  
-│   └── Retro Portfolio Website [In progress]
 │  
 └── Goals  
     ├── 🎓 Studying the exciting world of CS
