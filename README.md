@@ -19,13 +19,13 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 55 mins
+Total Time: 1 hr
 
-C        48 mins         █████████████████████▓░░░   86.06 %
-Python   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+C        57 mins         ███████████████████████▒░   93.92 %
+Python   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
