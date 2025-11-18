@@ -19,12 +19,15 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Total Time: 24 mins
+Total Time: 1 hr 21 mins
 
-Lua    24 mins         ████████████████████████▓   98.92 %
-tmux   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+C          46 mins         ████████████▓░░░░░░░░░░░░   50.84 %
+Lua        31 mins         ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Other      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+bigfile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+hyprlang   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
