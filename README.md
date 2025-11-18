@@ -10,8 +10,7 @@
       S        Y        Z
 
 ├── From Nepal 🇳🇵  
-├── Born on 2008 
-└── Planning to study CS
+├── Born
 
 $ waka stats --user syprozzz
 ```
@@ -38,7 +37,7 @@ $ ls syprozzz
 ├── README.md  
 │  
 ├── Languages  
-│   ├── Python         SQL         Markdown  
+│   ├── Python         SQL         Markdown    
 │   ├──Javascript      C           Lua    
 │  
 ├── Tools  
@@ -47,14 +46,11 @@ $ ls syprozzz
 │   └── Replit      Jupyter Notebook            
 │  
 ├── Projects  
-│   ├── Tic Tac Toe [Python]  
-│   ├── Spaceship Game [Pygame]  
-│   ├── Street Fighter Game [In Progress]  
-│  
+│   ├── Check out repos
+│ 
 └── Goals  
-    ├── 🎓 Studying the exciting world of CS
-    ├── 💪 Master Calisthenics & Stay Healthy  
-    └── 🌍 Implement Knowledge in Real World
+    ├── Try new things
+    ├── Learn
 
 $ echo "To live is to struggle. That’s the nature of life...." 🧠
 ```
