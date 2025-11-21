@@ -18,15 +18,15 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Total Time: 2 hrs 4 mins
+Total Time: 3 hrs 5 mins
 
-C             1 hr 8 mins     ████████████░░░░░░░░░░░░░   48.00 %
-Lua           31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-Other         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Makefile      17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+C             1 hr 37 mins    ████████████░░░░░░░░░░░░░   47.62 %
+Lua           31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Makefile      21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Objective-C   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Other         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
 ```
 
 <!--END_SECTION:waka-->
