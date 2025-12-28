@@ -1,4 +1,4 @@
-# Syz
+ko# Syz
 
 ```
   _____    __     __   ______ 
@@ -9,7 +9,7 @@
 |_____/       |_|     /_____| 
       S        Y        Z
 
-├── From Nepal 🇳🇵  
+├── From🇳🇵  
 ├── Born
 
 $ waka stats --user syprozzz
@@ -37,12 +37,12 @@ $ ls syprozzz
 ├── README.md  
 │  
 ├── Languages  
-│   ├── Python         SQL         Markdown    
-│   ├──Javascript      C           Lua    
+│   ├── Python         SQL         Markdown    Bash
+│   ├──Javascript      C           Lua         
 │  
 ├── Tools  
 │   ├── Neovim      Git & GitHub       Figma              
-│   ├── Pygame      Piskel             Linux (arch btw)  
+│   ├── Tiling Wms  Piskel         Linux (arch btw)  
 │   └── Replit      Jupyter Notebook            
 │  
 ├── Projects  
@@ -52,5 +52,5 @@ $ ls syprozzz
     ├── Try new things
     ├── Learn
 
-$ echo "To live is to struggle. That’s the nature of life...." 🧠
+$ echo "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost."
 ```
