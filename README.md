@@ -18,15 +18,14 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Total Time: 1 hr 53 mins
+Total Time: 52 mins
 
-sh         49 mins         ██████████▓░░░░░░░░░░░░░░   42.99 %
-C          43 mins         █████████▒░░░░░░░░░░░░░░░   37.62 %
-Bash       17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-Makefile   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+sh         49 mins         ███████████████████████░░   91.90 %
+Makefile   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+jsonc      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
