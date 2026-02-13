@@ -18,14 +18,14 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Total Time: 13 hrs 13 mins
+Total Time: 11 hrs 28 mins
 
-C          12 hrs 58 mins  ████████████████████████▓   98.18 %
-jsonc      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C          11 hrs 14 mins  ████████████████████████▒   97.90 %
+jsonc      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
