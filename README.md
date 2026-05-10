@@ -18,12 +18,14 @@ $ waka stats --user syprozzz
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 2 hrs 41 mins
+Total Time: 4 hrs 10 mins
 
-C++           2 hrs 29 mins   ███████████████████████░░   92.54 %
-Objective-C   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+C++           2 hrs 29 mins   ███████████████░░░░░░░░░░   59.57 %
+C             1 hr 27 mins    ████████▓░░░░░░░░░░░░░░░░   35.12 %
+Objective-C   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
